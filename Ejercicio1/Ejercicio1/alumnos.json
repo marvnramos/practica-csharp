@@ -1,0 +1,28 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Juan Pérez",
+      "edad": 22,
+      "numeroEstudiante": "2024001",
+      "correo": "juan.perez@example.com",
+      "direccion": "Calle Falsa 123",
+      "telefono": "555-1234"
+    },
+    {
+      "nombre": "María López",
+      "edad": 23,
+      "numeroEstudiante": "2024002",
+      "correo": "maria.lopez@example.com",
+      "direccion": "Avenida Siempre Viva 456",
+      "telefono": "555-5678"
+    },
+    {
+      "nombre": "Carlos García",
+      "edad": 21,
+      "numeroEstudiante": "2024003",
+      "correo": "carlos.garcia@example.com",
+      "direccion": "Calle Luna 789",
+      "telefono": "555-9876"
+    }
+  ]
+}
